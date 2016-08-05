@@ -1,0 +1,30 @@
+_repo: Tiverton-Tales_9370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Dooryards -- A March wind -- The mortuary chest -- Horn-o'-the-moon
+  -- A stolen festival -- A last assembling -- The way of peace -- The experience
+  of Hannah Prime -- Honey and myrrh -- A second marriage -- The Flat-Iron Lot --
+  The end of all living.
+title: Tiverton Tales
+url: http://www.gutenberg.org/ebooks/9370
